@@ -4,10 +4,6 @@ evaluate fddb on Windows
 ### enviroment
 
 ```
-which is clone from https://github.com/matterport/Mask_RCNN
-```
-
-```
 1.需要安装opencv3.1
 
 2.vs2013 or later
