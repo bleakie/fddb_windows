@@ -17,3 +17,5 @@ evaluate fddb on Windows
 
 3.root/compareROC 文件中修改discROC.p和contROC.p，将evaluation生成的DiscROC和ContROC中生成的文件拷贝到rocCurves中，运行plotall.bat
 
+## result
+![](fddb_windows/compareROC/discROC.png)
